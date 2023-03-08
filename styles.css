@@ -261,13 +261,14 @@ body{
 
 
 .s1-div1 > h1{
-    font-size: 78px;
+    font-size: 58px;
     margin: 0;
 }
 
 .s1-div1 > p{
     font-size: 28px;
     margin: 0;
+    padding-bottom: 28px;
 }
 
 .calorie{
