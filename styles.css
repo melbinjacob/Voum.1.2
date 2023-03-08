@@ -557,6 +557,10 @@ a{
 /* Responsiveness for Mobile devices */
 @media screen and (max-width: 430px){
     
+    .logo{
+        font-size: 48px;
+    }
+
     .s1-content > h1{
         font-size: 24px;
     }
